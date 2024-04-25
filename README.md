@@ -1,7 +1,12 @@
 # ParPy
 ParPy is a python based script that measures the parallelism of replicate samples in multivariate space. Intended application is here: [doi]
+
 ### Inspired by: 
 [Junya Watanabe, 2022](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9674#ece39674-bib-0071) & [Härer & Rennison, 2022](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9674#ece39674-bib-0071)
+
+## Usage:
+Open PayPy.ipynb , upload your data (or our test data), redefine df and pca pandas dataframes with the direction of your files, execute the code, enjoy the results!
+
 ## Step-by-step Code Breakdown:
 1) $\[
 \cosΘ = r = \frac{u \cdot v}{\|u\| \cdot \|v\|}
