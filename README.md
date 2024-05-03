@@ -25,7 +25,3 @@ And all vector elements are filled by their pairwise PC eigenvector value $\ x_i
 
 $$\hat{A}\_\theta\ = atan2\left( \sum_{j=1}^n(sin\theta\_j \cdot\ w_j), \sum_{j=1}^n(cos\theta\_j \cdot\ w_j) \right)$$
 
-### Scratch Math:
-
-![Screenshot 2024-04-24 174902](https://github.com/ganamir/ParPy/assets/129692189/0cf792d8-6515-493f-9a28-b2c4592ba35a)
-
