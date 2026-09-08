@@ -2,10 +2,10 @@
 ParPy is a python based script that measures the angular parallelism of replicate samples in multivariate space.
 
 ### Inspired by: 
-[Junya Watanabe, 2022](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9674#ece39674-bib-0071) & [Härer & Rennison, 2022](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9674#ece39674-bib-0071)
+[Junya Watanabe, 2022](https://pubmed.ncbi.nlm.nih.gov/35168376/) & [Härer & Rennison, 2022](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9674#ece39674-bib-0071)
 
 ## Usage:
-Open PayPy.ipynb , upload your data (or our test data), redefine df and pca pandas dataframes with the directory of your files, execute the code, enjoy the results!
+Open ParPy.ipynb , upload your data (or our test data), redefine df and pca pandas dataframes with the directory of your files, execute the code, enjoy the results!
 
 ## Step-by-step Code Breakdown:
 1) $\[
